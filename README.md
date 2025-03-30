@@ -1,5 +1,4 @@
-# Eid-mubarak-
-<!doctype html>
+
 <html lang="en"> 
  <head> 
   <meta charset="UTF-8"> 
@@ -146,7 +145,7 @@
   </div> 
   <script>
         const messageText = `On this blessed occasion of Eid, may your heart be filled with joy, your home be filled with peace, and your life be blessed with endless happiness.\n
-        May Allah’s divine light guide your path, His mercy surround you, and His love uplift your spirit. As the crescent moon shines bright, may it bring hope, faith, and prosperity to you and your loved ones.\n
+        May Allah’s divine light guide your path, His mercy surround you, and His love uplift your spirit. \n
         Let this Eid be a reminder to cherish every moment, spread kindness, and embrace gratitude. Wishing you a day filled with laughter, love, and countless blessings!\n
         
         ✨ Eid Mubarak! ✨`;
